@@ -113,6 +113,7 @@ wsa://com.android.settings
 | Device Info HW | 5.4.1 | ✅ |||
 | Decibel X | 6.4.2 |	⚠️ | App crashes |
 | Discord | 98.6 | ✅ |||
+| Disney+ | | ⚠️ | No DRM ||
 | Дурак Онлайн (Durak Online) | 1.9.2 | 🆖 | Requires GMS ||
 | DMM Games Store | 2.8.0 | 🆖 | Requires GMS ||
 | Duolingo | 5.2.35 | ✅ | | |
@@ -126,6 +127,8 @@ wsa://com.android.settings
 | Fate/Grand Order (US) FGO | 2.22.1 (135) | ✅ || A little unstable, but playable |
 | F-Droid | 1.13.1 | ✅ ||
 | Facebook Messenger | 330.0.0.12.116 (x86_64) | ⚠️ | Chat Heads don't work |
+| Files (Google) | | ✅ ||
+| Find My Device (Google) | | ✅ ||
 | Fire Emblem Heroes | 5.10.0 | 🆖 | Requires GMS ||
 | Firefox | 93.2.0 (2015839751) | ✅ ||
 | Firefox Nightly | 95.0a1 | ✅ ||
@@ -150,6 +153,7 @@ wsa://com.android.settings
 | Hobi | 2.1.7 | 🆖 | Requires GMS |
 | 崩坏学园2 (Honkai Gakuen 2)| 8.5 | ✅ | | Game has inbox keyboard controller for WASD |
 | Honkai Impact 3rd| 5.1.0 | ⚠️ | Poor graphics quality |
+| Hotstar | | 🆖 | Requires GMS | Free content only |
 | HTV (hanime tv) | 3.6.7 | ⚠️ | Failed to play video | Internal player don't work, asks for external player and fails again |
 | Huawei AppGallery  | 11.4.2.300 | ✅ | Frequent crashes were experienced, otherwise the app functionality is fine ||
 | Hyper Square | 3.0.1 | ✅ ||
@@ -161,6 +165,7 @@ wsa://com.android.settings
 | Jet Car Stunts 2 | 1.0.13 | ❌ | Loads up but orientation and menus are broken ||
 | JioSaavn | 8.2.1 | ✅ |Doesn't support fullscreen and rare crashes but running fine|
 | Joey (Reddit client) | 2.0.0.1 | ✅ ||
+| JOOX | | ✅ | | Use Android 4.4 version |
 | Joplin | 2.4.3 (2097651) | ✅ ||
 | JuiceSSH | 3.2.2 | ⚠️ | Connecting to SSH server needs multiple tries | |
 | Kahoot | | ✅ |||
@@ -255,7 +260,9 @@ wsa://com.android.settings
 | Smart Life | 3.32.5 | ❌ | The app is producing constant flashes between light and dark mode, and the UI element of agreement pop-up is moving on screen so it can't be accepted ||
 | Smart Launcher | 5.5 Build 052 | ✅ ||
 | Smash Hit | 1.4.3 | ✅ ||
+| SmartThings | | ✅ ||
 | Solid Explorer File Manager | 2.8.16 | ❌ | App crashes |
+| Solat169 | | ✅ ||
 | Snapchat | | ⚠️ | Camera view is flipped | GMS warnings might appear but these can be safely ignored |
 | Speedtest by Ookla | 4.6.10 (145526) | ⚠️ | VPN does not work ||
 | Spotify | 8.6.70.1102 | ⚠️ | The app crashes on first startup, but works second startup upwards |
@@ -267,7 +274,8 @@ wsa://com.android.settings
 | Steam Chat | 1.0 | ✅ ||
 | Steam Link | 1.1.81 | ❌ | App crashes |
 | Stickman Hook | 7.2.8 | ❌ | Game fails to initialize ||
-| Subway Surfers | 2.24.2 | ✅ | Doesn't support keyboard control |
+| Subway Surfers | 2.24.2 | ✅ ||
+| Summoner's Greed | | ✅ ||
 | Sword Art Online: Memory Defrag | 3.0.2 | ✅ | Keyboard unsupported |
 | Symbolab | 9.3.0 | ✅ | | Keyboard not working, in-app keyboard is available though |
 | Tachiyomi | 0.12.3 | ✅ ||
@@ -278,6 +286,7 @@ wsa://com.android.settings
 | TikTok (Global) | 21.6.4 | ⚠️ | Error when trying to log in, you can create a new account |
 | TikTok (TV Version) | 1.6.0 | ❌ | App crashes ||
 | TikTok Lite | 21.7.1 | ❌ | App crashes ||
+| Tivimate | | ⚠️ | DRM stream can't played | After screen showing messsage about remote device, you need to press any key to make interface showing |
 | Telegram | 8.1.2 | ✅ |||
 | Тинькофф (Tinkoff Bank) | 5.20.0 | ✅ |||
 | True Skate | 1.5.39 | ✅ | Minor graphical glitches ||
@@ -291,6 +300,7 @@ wsa://com.android.settings
 | Vanced MicroG | 0.2.22.212658 | ⚠️ | microG Google sign-in method does not work, hence use Huawei sign-in method to sign in to Google account ||
 | Via Browser | 4.3.1 | ✅ ||
 | Vidio | 5.64.5-f0aa483a3d | 🆖 | | Might require GMS for login |
+| Virtual Android App (any) | | ❌ | App crashes ||
 | Vivaldi Browser | 4.3.2439.61 | ✅ ||
 | VLC | 3.4.0 | ✅ ||
 | VK | 6.58 | ✅ ||
